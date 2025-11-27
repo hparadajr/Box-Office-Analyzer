@@ -89,14 +89,17 @@ Note: values are in millions.
 === BOX OFFICE MATRIX (in millions) ===
 
 ```
-Movie                               Domestic  International  Worldwide
------------------------------------------------------------------------
-Star Wars Episode I                 488       1046           1534
-Star Wars Episode II                316       657            973
-Star Wars Episode III (The best one)414       902            1316
-Star Wars Episode IV                460       775            1235
-Star Wars Episode V                 291       549            840
-Star Wars Episode VI                316       482            798
+## Box Office Revenue (in millions)
+
+| Movie                                   | Domestic | International | Worldwide |
+|-----------------------------------------|----------|---------------|-----------|
+| Star Wars Episode I                     | 488      | 1046          | 1534      |
+| Star Wars Episode II                    | 316      | 657           | 973       |
+| Star Wars Episode III (The best one)    | 414      | 902           | 1316      |
+| Star Wars Episode IV                    | 460      | 775           | 1235      |
+| Star Wars Episode V                     | 291      | 549           | 840       |
+| Star Wars Episode VI                    | 316      | 482           | 798       |
+
 
 ```
 
