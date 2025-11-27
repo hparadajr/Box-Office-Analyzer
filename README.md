@@ -2,7 +2,7 @@
 Box-Office-Analysis is an R project that analyzes box office numbers for the Star Wars movies included in the dataset. The repository contains an R script that creates vectors of domestic and international earnings, builds matrices and data frames, computes worldwide totals, and reports summary results.
 
 ## 📄 Data Source  
-Box office grosses (domestic, international, worldwide) taken from the “Star Wars” franchise summary page on The Numbers.  
+Box office grosses (domestic, international, worldwide) taken from the Star Wars franchise summary page on The Numbers.  
 [https://www.the-numbers.com/movies/franchise/Star-Wars#tab=summary](https://www.the-numbers.com/movies/franchise/Star-Wars#tab=summary)  
 
 ## Skills demonstrated
